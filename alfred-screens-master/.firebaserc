@@ -1,0 +1,19 @@
+{
+  "projects": {},
+  "targets": {
+    "web-panel--prod-c262d": {
+      "hosting": {
+        "alfred-screens-prod": [
+          "alfred-screens-prod"
+        ]
+      }
+    },
+    "web-panel-c262d": {
+      "hosting": {
+        "alfred-screens-dev": [
+          "alfred-screens-dev"
+        ]
+      }
+    }
+  }
+}
